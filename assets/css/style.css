@@ -1,0 +1,16 @@
+.ul-links {
+	list-style: none;
+}
+
+.header {
+	margin-bottom: 20px;
+}
+
+.link {
+	display: inline-block;
+}
+
+.link-span, .link-span:hover {
+	text-decoration: none;
+	color: black;
+}
